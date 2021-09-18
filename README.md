@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://prod-cdnugc-rockstargames.akamaized.net/ugc/gta5photo/QUxgDPo5vEqWcpyLAjdbEA/0_0.jpg"  width="650px" title="Mount Chiliad GTA V" alt="mount       chiliad">
+  <img src="https://cdn.discordapp.com/attachments/629670151217872896/888842954192597002/unknown.png"  width="650px" title="GTA V" alt="GTA V">
 </p>
