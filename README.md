@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/629670151217872896/889685548845899816/colorGTAVMsL.png?width=700&height=382" title="GTA V" alt="GTA V">
+  <img src="https://cdn.discordapp.com/attachments/629670151217872896/890008177612046356/colorGTAVMsL3.png" title="GTA V" alt="GTA V">
 </p>
